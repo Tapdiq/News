@@ -57,8 +57,8 @@ nav .search{
 	border: 1px solid rgb(152,152,152);
 	border-radius: 20px;
 	position: relative;
-	left: 7px;
-	width: 307px;
+	left: 14px;
+	width: 274px;
 	padding: 10px;
 	color: rgb(152,152,152);
 	text-align: left;
@@ -93,7 +93,7 @@ nav .search{
 
 .right-container{
 	position: relative;
-	bottom: 180px;
+	bottom: 175px;
 	left: 129px;
 	display: inline-block;
 
@@ -109,20 +109,20 @@ nav .search{
 
 .two{
 	position: relative;
-	bottom: 180px;
+	bottom: 174px;
 	left: 144px;
 	display: inline-block;
 }
 .three{
 	position: relative;
 	left: 18px;
-	bottom: 169px;
+	bottom: 175px;
 	display: inline-block;
 }
 .four{
 	position: relative;
 	left: 33px;
-	bottom: 169px;
+	bottom: 175px;
 	display: inline-block;
 }
 .right-captions a{
@@ -153,14 +153,16 @@ nav .search{
 	height: 453px;
 	margin-left: 20px;
 	border-bottom: 5px solid rgba(198,70,61);
+	font: 900 17px 'Dosis',sans-serif;
 }
+
 .block-a-first{
 	position: absolute;
 	width: 249px;
 	height: 56px;
 	left: 170px;
-	bottom: 344px;
-	font: 700 13px Arial,sans-serif;
+	bottom: 326px;
+	font: 700 11px Arial,sans-serif;
 	color: black;
 }
 .block-a-first a{
@@ -174,7 +176,8 @@ nav .search{
 	width: 249px;
 	height: 57px;
 	left: 170px;
-	bottom: 301px;
+	bottom: 287px;
+	font: 700 11px Arial,sans-serif;
 }
 .block-a-two a{
 	color: rgba(0,0,0,.5);
@@ -182,25 +185,25 @@ nav .search{
 
 .a{
 	position: absolute;
-	bottom: 212px;
+	bottom: 194px;
 }
 .b{
 	position: absolute;
-	bottom: 170px;
+	bottom: 156px;
 }
 .aa{
 	position: absolute;
-	bottom: 79px;
+	bottom: 62px;
 }
 .bb{
 	position: absolute;
-	bottom: 37px;
+	bottom: 23px;
 }
 
 .block-right-container{
 	position: relative;
 	left: 18px;
-	bottom: 173px;
+	bottom: 179px;
 	display: inline-block;
 	width: 282px;
 	height: 400px;
@@ -209,7 +212,7 @@ nav .search{
 }
 .block-right-container-div a{
 	color: black;
-	font: 700 14px 'Arial',sans-serif;
+	font: 700 11px Arial,sans-serif;
 }
 .block-right-container-div a:hover{
 	color: coral;
@@ -217,7 +220,7 @@ nav .search{
 .block-right-little-container{
 	position: relative;
 	left: 33px;
-	bottom: 370px;
+	bottom: 376px;
 	display: inline-block;
 	width: 176px;
 	height: 220px;
@@ -264,7 +267,7 @@ nav .search{
 }
 .bottom-container{
 	position: relative;
-	bottom: 287px;
+	bottom: 252px;
 	display: inline-block;
 	width: 426px;
 	height: 621px;
@@ -282,7 +285,7 @@ nav .search{
 	position: absolute;
 	left: 254px;
 	bottom: 496px;
-	font: 700 13px Arial,sans-serif;
+	font: 700 11px Arial,sans-serif;
 	margin-bottom: 10px;
 
 }
@@ -293,7 +296,7 @@ nav .search{
 	position: absolute;
 	left: 254px;
 	bottom: 405px;
-	font: 700 13px Arial,sans-serif;
+	font: 700 11px Arial,sans-serif;
 	margin-bottom: 10px;
 }
 .bottom-a-two a{
@@ -317,23 +320,23 @@ nav .search{
 }
 .bottom-container-two .block-a-first{
 	position: absolute;
-	bottom: 245px;
+	bottom: 233px;
 }
 .bottom-container-two .block-a-two{
 	position: absolute;
-	bottom: 204px;
+	bottom: 191px;
 }
 .bottom-container-two .aa{
 	position: absolute;
-	bottom: 95px;
+	bottom: 85px;
 }
 .bottom-container-two .bb{
 	position: absolute;
-	bottom: 53px;
-	font: 600 14px "Dosis",sans-serif;
+	bottom: 44px;
+	font: 700 11px Arial,sans-serif;
 }
 .bottom-container-two .b{
-	font: 600 14px "Dosis",sans-serif;
+	font: 700 11px Arial,sans-serif;
 }
 .bottom-center-container{
 	position: relative;
@@ -347,11 +350,11 @@ nav .search{
 	margin-bottom: 10px;
 }
 .bottom-center-first a{
-	font: 700 13px 'Arial',sans-serif;
+	font: 700 11px 'Arial',sans-serif;
 	color: black;
 }
 .bottom-center-two a{
-	font: 700 13px 'Arial',sans-serif;
+	font: 700 11px Arial,sans-serif;
 	color: rgb(0,0,0,.5);
 }
 .bottom-center-btn{
@@ -367,7 +370,7 @@ nav .search{
 .bottom-right-container{
 	position: relative;
 	left: 14px;
-	bottom: 739px;
+	bottom: 703px;
 	display: inline-block;
 	width: 177px;
 	height: 382px;
@@ -383,8 +386,8 @@ nav .search{
 }
 .bottom-last-container{
 	position: relative;
-	left: 766px;
-	bottom: 754px;
+	left: 764px;
+	bottom: 718px;
 	display: inline-block;
 	font: 900 17px 'Dosis',sans-serif;
 }
@@ -393,13 +396,17 @@ nav .search{
 	background-color: rgb(213,85,82);
 	text-align: center;
 	color: white;
+	font: 600 14px 'Arial',sans-serif;
 }
 .footer-container p,.footer-container div{
 	display: inline;
-
 }
 .footer-container a{
 	color: white;
+	text-decoration: underline;
+}
+.text-decoration:hover{
+	text-decoration: underline;
 }
 .footer-container-first{
 	margin-right: 10px;
